@@ -1,4 +1,4 @@
-package com.blazer.javaconcurrency.extras.lockcounter;
+package com.blazer.javaconcurrency.lockcounter;
 
 public class SynchronizedLockCounter implements LockCounter{
     private long count = 0;

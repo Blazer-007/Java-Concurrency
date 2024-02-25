@@ -1,4 +1,4 @@
-package com.blazer.javaconcurrency.extras.lockcounter;
+package com.blazer.javaconcurrency.lockcounter;
 
 
 import java.util.concurrent.atomic.AtomicLong;

@@ -1,4 +1,4 @@
-package com.blazer.javaconcurrency.extras.lockcounter;
+package com.blazer.javaconcurrency.lockcounter;
 
 public class LockCounterMain {
     public static void main(String[] args) {
